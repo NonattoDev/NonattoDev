@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>NodeJs<br>Javascript<br>MySQL<br>MongoDb<br>Sequelize<br>Mongoose<br>Express<br>Bulma<br>Pretendo partir logo para React<br><br>🤝 I’m looking for help with<br>Venho quebrando minha cabeça para trabalhar com arquitetura MVC<br>Como é confuso esse troço!!<br>Mas, já já eu chego lá!<br>Toda Ajuda é bem vinda<br><br>🌱 I’m currently learning<br>MVC structure!<br><br>⚡ Fun fact<br>I love my Family!
+🔭 I’m currently working on<br>NodeJs<br>Javascript<br>MySQL<br>MongoDb<br>Sequelize<br>Mongoose<br>Express<br>Bulma<br>React<br><br>🤝 I’m looking for help with<br>Venho quebrando minha cabeça para trabalhar com arquitetura MVC<br>Como é confuso esse troço!!<br>Mas, já já eu chego lá!<br>Toda Ajuda é bem vinda<br><br>🌱 I’m currently learning<br>MVC structure!<br><br>⚡ Fun fact<br>I love my Family!
 
 
 ## 🌐 Socials:
