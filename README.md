@@ -1,39 +1,44 @@
 ## 💫 About Me / Sobre mim:
 
 - ### 🔭 I’m currently working with / Atualmente estou trabalhando com:
-  - NodeJs
-  - JavaScript
-  - MySQL
-  - MongoDB
-  - Sequelize
-  - Mongoose
-  - Express
-  - Bulma
+  - <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  - <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white"> 
+  - <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
+---
 
-- ### 🤝 I’m looking for help with / Estou procurando ajuda com:
-  - Finding internship or job opportunities in my field.
-  - Learning new skills and tools that can help me grow professionally.
-  - Getting mentorship or advice from experienced professionals in the job market.
-  - Networking with other professionals in the field and expanding my network of contacts.
-  - Finding possible partners for projects in which I can contribute and learn.
-  - Encontrar oportunidades de estágio ou emprego na minha área de atuação.
-  - Aprender novas habilidades e ferramentas que possam me ajudar a crescer profissionalmente.
-  - Conseguir mentoria ou aconselhamento de pessoas experientes no mercado de trabalho.
-  - Fazer networking com outros profissionais da área e expandir minha rede de contatos.
-  - Encontrar possíveis parceiros para projetos em que eu possa contribuir e aprender.
+
+### 🔍 Seeking Help / Procurando Ajuda:
+- <img src="https://img.shields.io/badge/-👨‍💼%20Mentorship%20or%20Advice-00BFFF?style=flat-square"> Mentorship or advice from experienced professionals / Mentoria ou conselho de profissionais experientes
+- <img src="https://img.shields.io/badge/-🤝%20Networking-00BFFF?style=flat-square"> Networking with other professionals / Networking com outros profissionais
+- <img src="https://img.shields.io/badge/-💼%20Job%20Opportunities-00BFFF?style=flat-square"> Finding internship or job opportunities / Encontrar oportunidades de estágio ou emprego
+- <img src="https://img.shields.io/badge/-🌱%20Learning-00BFFF?style=flat-square"> Learning new skills and tools / Aprender novas habilidades e ferramentas
+- <img src="https://img.shields.io/badge/-🤝%20Partnership-00BFFF?style=flat-square"> Finding possible partners for projects / Encontrar possíveis parceiros para projetos
+
+---
+
+
+
 
 - ### 🌱 I’m currently learning / Atualmente estou aprendendo:
   - React, Redux and Next.js to work together with the backend and create full-stack web applications
   - React, Redux e Next.js para trabalhar junto com o backend e criar aplicações web full-stack.
-
+---
 ### ⚡ Fun fact / Curiosidade:
 - I love my family! / Eu amo minha família!
 - I love my cats / Eu amo meus gatos!
+---
 
 ### 🚀 Recent Projects:
 - Projeto de Gerenciamento de Cadastro de Ex-Alunos e Convidados
 
 Este projeto consiste em um programa em JavaScript construído com Node.js e Express.js, que permite que ex-alunos adicionem convidados e ambos possam se cadastrar para participar de um evento em uma escola. O programa utiliza o Sequelize para interagir com um banco de dados MySQL, implementando relacionamentos para que um ex-aluno possa ter vários convidados, e o EJS como mecanismo de visualização. O dotenv é utilizado para gerenciar variáveis de ambiente. Para garantir a validade das informações inseridas pelos usuários e evitar erros, o programa utiliza o express-validator. Além disso, o programa inclui uma camada extra de segurança por meio da integração com o Google Authenticator. Este projeto está em constante evolução, estou sempre em busca de maneiras de melhorar e expandir minhas habilidades, incluindo a utilização do React para criar uma interface de usuário mais dinâmica e interativa.
+---
 
 
 ## 🌐 Socials:
