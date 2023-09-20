@@ -10,6 +10,7 @@
   - <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"> 
   - <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white"> 
   - <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
 ---
 
 
