@@ -1,6 +1,6 @@
-## 💫 About Me / Sobre mim:
+## 💫 Sobre Mim / About Me:
 
-- ### 🔭 I’m currently working with / Atualmente estou trabalhando com:
+- ### 🔭 Atualmente estou trabalhando com / I'm currently working with:
   - <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
   - <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   - <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
@@ -11,7 +11,8 @@
   - <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white"> 
   - <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
   - <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
----
+
+  ---
 
 
 ### 🔍 Seeking Help / Procurando Ajuda:
