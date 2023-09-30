@@ -31,24 +31,11 @@
 - <img src="https://img.shields.io/badge/-🤝%20Partnership-00BFFF?style=flat-square"> Finding possible partners for projects / Encontrar possíveis parceiros para projetos
 
 ---
-
-
-
-
-- ### 🌱 I’m currently learning / Atualmente estou aprendendo:
-  - React, Redux and Next.js to work together with the backend and create full-stack web applications
-  - React, Redux e Next.js para trabalhar junto com o backend e criar aplicações web full-stack.
----
 ### ⚡ Fun fact / Curiosidade:
 - I love my family! / Eu amo minha família!
 - I love my cats / Eu amo meus gatos!
 ---
 
-### 🚀 Recent Projects:
-- Projeto de Gerenciamento de Cadastro de Ex-Alunos e Convidados
-
-Este projeto consiste em um programa em JavaScript construído com Node.js e Express.js, que permite que ex-alunos adicionem convidados e ambos possam se cadastrar para participar de um evento em uma escola. O programa utiliza o Sequelize para interagir com um banco de dados MySQL, implementando relacionamentos para que um ex-aluno possa ter vários convidados, e o EJS como mecanismo de visualização. O dotenv é utilizado para gerenciar variáveis de ambiente. Para garantir a validade das informações inseridas pelos usuários e evitar erros, o programa utiliza o express-validator. Além disso, o programa inclui uma camada extra de segurança por meio da integração com o Google Authenticator. Este projeto está em constante evolução, estou sempre em busca de maneiras de melhorar e expandir minhas habilidades, incluindo a utilização do React para criar uma interface de usuário mais dinâmica e interativa.
----
 
 
 ## 🌐 Socials:
