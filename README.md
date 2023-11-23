@@ -2,9 +2,11 @@
 
 - ### 🔭 Atualmente estou trabalhando com / I'm currently working with:
 
+#### Full-Stack
+ - <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+
 #### Front-end:
   - <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
-  - <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
   - <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   - <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white">
 
