@@ -26,16 +26,13 @@
 
 
 ### 🔍 Seeking Help / Procurando Ajuda:
-- <img src="https://img.shields.io/badge/-👨‍💼%20Mentorship%20or%20Advice-00BFFF?style=flat-square"> Mentorship or advice from experienced professionals / Mentoria ou conselho de profissionais experientes
 - <img src="https://img.shields.io/badge/-🤝%20Networking-00BFFF?style=flat-square"> Networking with other professionals / Networking com outros profissionais
 - <img src="https://img.shields.io/badge/-💼%20Job%20Opportunities-00BFFF?style=flat-square"> Finding internship or job opportunities / Encontrar oportunidades de estágio ou emprego
-- <img src="https://img.shields.io/badge/-🌱%20Learning-00BFFF?style=flat-square"> Learning new skills and tools / Aprender novas habilidades e ferramentas
-- <img src="https://img.shields.io/badge/-🤝%20Partnership-00BFFF?style=flat-square"> Finding possible partners for projects / Encontrar possíveis parceiros para projetos
+
 
 ---
 ### ⚡ Fun fact / Curiosidade:
 - I love my family! / Eu amo minha família!
-- I love my cats / Eu amo meus gatos!
 ---
 
 
